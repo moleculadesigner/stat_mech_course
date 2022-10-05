@@ -1,0 +1,64 @@
+10000 steps:
+Run #1
+conf_a 2
+conf_b 1
+conf_c 0
+
+Run #2
+conf_a 0
+conf_b 0
+conf_c 0
+
+Run #3
+conf_a 0
+conf_b 0
+conf_c 1
+
+100000 steps:
+Run #1
+conf_a 12
+conf_b 8
+conf_c 15
+
+Run #2
+conf_a 4
+conf_b 14
+conf_c 27
+
+Run #3
+conf_a 10
+conf_b 8
+conf_c 13
+
+1000000 steps:
+Run #1
+conf_a 141
+conf_b 114
+conf_c 111
+
+Run #2
+conf_a 110
+conf_b 82
+conf_c 88
+
+Run #3
+conf_a 111
+conf_b 105
+conf_c 126
+
+10000000 steps:
+Run #1
+conf_a 1208
+conf_b 1131
+conf_c 1169
+
+Run #2
+conf_a 1108
+conf_b 1146
+conf_c 1137
+
+Run #3
+conf_a 1134
+conf_b 1139
+conf_c 1041
+

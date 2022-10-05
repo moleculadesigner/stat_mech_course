@@ -1,0 +1,10 @@
+name: stat-mech
+
+dependencies:
+  - python=3.9
+  - numpy
+  - scipy
+  - matplotlib
+  - jupyter
+  - seaborn
+  - numba
